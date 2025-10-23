@@ -24,10 +24,10 @@
 
 ## 🧠 Sobre mim
 
-Sou formado em **Ciências da Computação** e atuo na área de **Análise de Dados**, com foco em transformar informações em **insights estratégicos** que impulsionam decisões de negócio.
+Sou formado em **Ciências da Computação** com experiência no tratamento, análise e visualização de dados, com foco em transformar informações em **insights estratégicos** que impulsionam decisões de negócio.
 
 Comecei minha trajetória na **Logística**, desenvolvendo análises sobre devoluções, riscos e penalidades em **Excel com VBA**.  
-Hoje, na **Getway Automação Comercial**, realizo **análises e otimizações de queries SQL** e desenvolvo **scripts em Python e automações com Power Automate** para aumentar a eficiência de processos internos e garantir a precisão dos dados fiscais (SPED).
+Hoje, na **Getway Automação Comercial**, realizo **análises e otimizações de queries SQL**, suporte em correções de dados fiscais (SPED), e desenvolvo **scripts personalizados em SQL e automações com Power Automate e Python** para aumentar a eficiência de processos internos.
 
 💡 Acredito que **dados bem tratados contam histórias poderosas**, e meu objetivo é continuar evoluindo em **visualização de dados, analytics e processos ETL/ELT**.
 
@@ -57,7 +57,7 @@ Hoje, na **Getway Automação Comercial**, realizo **análises e otimizações d
 **🚀 Getway Automação Comercial (02/2022 - Atual)**  
 > *Analista de Suporte N2 / Analista de Dados*  
 - Análise, correção e otimização de **queries SQL** para tratamento de dados fiscais (SPED).  
-- Criação de *views* e relatórios dinâmicos para clientes em **SQL Server**.  
+- Criação de **views** e relatórios dinâmicos para clientes em **SQL Server**.  
 - Desenvolvimento de **scripts em Python** e **automações com Power Automate**.  
 - Integração de relatórios automatizados em **Excel com VBA**.  
 - Redução significativa no tempo de atendimento técnico.
