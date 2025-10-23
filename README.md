@@ -95,4 +95,13 @@ Sou movido pela curiosidade e pela vontade constante de aprender. 💪
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPaula02&layout=compact&theme=dark" />
 </p>
 
+---
+
+## 🗓️ Contribuições Recentes
+
+<p align="center">
+  <a href="https://github.com/MatheusPaula02">
+    <img src="https://github-readme-calendar.vercel.app/api?username=matheusdepaula&year=2025&theme=dark&radius=8&border_color=2E8B57&hide_title=true" alt="Calendário de Contribuições de Matheus De Paula" />
+  </a>
+</p>
 
