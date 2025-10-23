@@ -92,10 +92,7 @@ Sou movido pela curiosidade e pela vontade constante de aprender. 💪
 
 <p align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatheusPaula02&show_icons=true&theme=dark&count_private=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPaula02&layout=compact&theme=dark" />
 </p>
-
----
-
-## 🗓️ Contribuições Recentes
 
