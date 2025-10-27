@@ -10,10 +10,11 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<!--
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=MatheusPaula02&color=brightgreen" alt="Profile views"/>
 </p>
-
+ -->
 ---
 
 <p align="center">
