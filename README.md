@@ -96,9 +96,9 @@ Sou movido pela curiosidade e pela vontade constante de aprender. 💪
 ## 📊 GitHub Status
 
 <p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatheusPaula02&show_icons=true&theme=dark&count_private=true&cachebust=1" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatheusPaula02&show_icons=true&theme=dark&count_private=true&cache_seconds=3600" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPaula02&layout=compact&theme=dark&cachebust=1" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPaula02&layout=compact&theme=dark&cache_seconds=3600" />
 </p>
 
 
